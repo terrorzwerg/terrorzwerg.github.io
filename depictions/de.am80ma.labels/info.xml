@@ -2,14 +2,16 @@
     <bundleId>de.am80ma.labels</bundleId>
     <name>Labels</name>
     <version>1.0</version>
-	    <Screenshot>
+	    <Screenshots>
+		<Screenshot
         <image>
-   <src>/IMG_7386</src>
+   <src>/IMG_7386.PNG</src>
    <height> 1334px</height>
-   <width> 750</width>
+   <width> 750px</width>
    <title> Screenshot</title>
    </image>
     </Screenshot>
+    </Screenshots>
     <descriptions>
         <description>
             Label your screen 
