@@ -1,3 +1,22 @@
+Package: de.am80ma.wordclockwithweather
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Am80mA <terrorzwerg@me.com>
+Filename: .//debs/de.am80ma.wordclockwithweather_1.3_iphoneos-arm.deb
+Size: 1.587.620 
+MD5sum: B7B99D4E5DA4F9D34077D526DEA16781
+SHA1: 2719259442D0241F7BBF3799CBD8B3D11DC0D794
+SHA256: 663C5D760791C22D1A0FE3F50E6D95C269942570B120ECAD836A842E10829DC2
+SHA384: AAA3C1E69D3AE950DB76D382E53E870C72344264B88CD8B9FA5D6FFF19EA0CB2AD39990D2108A9503846271813B4D582
+SHA512: 36C51137C6ACF901A1FEE7736AF0F8003CC5A9D4E596DB99C759623523026AE6914E026AFF0BF46C0D8ABE8A2D2759644F3548AAB8D515CD09541CE85F2711C0
+Section: Widgets
+Description: widget für Infostats2 only
+Depiction: https://terrorzwerg.github.io/depictions/?p=de.andorri.deepskyblue
+Author: am80ma  <terrorzwerg@me.com>
+Name: Wordclockwithweather
+
+
+
 Package: de.am80ma.labels
 Version: 1.0
 Architecture: iphoneos-arm
