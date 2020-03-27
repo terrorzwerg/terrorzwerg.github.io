@@ -21,6 +21,8 @@
         <change>
             <changeVersion>V1.0</changeVersion>
             <changeDescription>Initial Release</changeDescription>
+		</change>
+		<change>
 			<changeVersion>V1.3</changeVersion>
             <changeDescription>future changes for the next big bamm</changeDescription>
         </change>
