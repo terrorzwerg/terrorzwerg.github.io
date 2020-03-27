@@ -1,5 +1,5 @@
 <packageInfo>
-    <bundleId>de.am80ma.wordclockwithweather</bundleId>
+    <bundleId>de.am80ma.wordclockwithweather_1.3_</bundleId>
     <name>wordclockwithweather</name>
     <version>1.3</version>
 	 <backgrounds>
@@ -7,7 +7,7 @@
 </backgrounds> 
     <descriptions>
         <description>
-            Label your screen 
+            only for the next big bamm platform 
         </description>
     </descriptions>
     <compatibility>
