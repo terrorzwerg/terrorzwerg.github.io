@@ -1,0 +1,30 @@
+<packageInfo>
+    <bundleId>de.am80ma.wordclockwithweather_1.3_</bundleId>
+    <name>wordclockwithweather</name>
+    <version>1.3</version>
+	 <backgrounds>
+	<image>bg1.png</image>
+</backgrounds> 
+    <descriptions>
+        <description>
+            only for the next big bamm platform 
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>9.0</miniOS>
+        <maxiOS>13.3</maxiOS>
+    </compatibility>
+    <dependencies>
+        <dependency>mobilesubstrate</dependency>
+    </dependencies>
+    <changelog>
+        <change>
+            <changeVersion>V1.0</changeVersion>
+            <changeDescription>Initial Release</changeDescription>
+		</change>
+		<change>
+			<changeVersion>V1.3</changeVersion>
+            <changeDescription>future changes for the next big bamm</changeDescription>
+        </change>
+    </changelog>
+</packageInfo>
