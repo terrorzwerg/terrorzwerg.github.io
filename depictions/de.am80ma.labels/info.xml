@@ -19,7 +19,6 @@
         <dependency>iwdgets up to ios 9.3.3 or xenhtml next to ios11</dependency>
     </dependencies>
     <changelog>
-       >
         <change>
             <changeVersion>V1.0</changeVersion>
             <changeDescription>Initial Release</changeDescription>
