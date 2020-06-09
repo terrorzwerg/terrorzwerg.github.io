@@ -7,6 +7,9 @@
            Onkelz Dailer for IOS 13
         </description>
     </descriptions>
+    <backgrounds>
+    <image>bg1.png</image>
+    </backgrounds>
     <compatibility>
         <miniOS>9.3.3</miniOS>
         <maxiOS>11.3.1</maxiOS>
