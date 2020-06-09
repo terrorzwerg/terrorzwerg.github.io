@@ -36,6 +36,7 @@ $(function(){
                    $(xml).find('dependency').each(function(){
                        $("#dependencies" ).append('<li>' +$(this).text()+ '</li>');
                    });
+				
 				   $(xml).find('backgrounds').each(function(){
 						$("#image" ).append('<img class ="fullwidth" src="' + imgUrl2 + $(this).text() + '" alt="">');
                    });
