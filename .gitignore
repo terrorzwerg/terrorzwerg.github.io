@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OS generated files #
 ######################
 .DS_Store
@@ -6,4 +7,7 @@
 depictions/.DS_Store
 .Trashes
 ehthumbs.db
+=======
+
+>>>>>>> parent of 46d88ee... upload
 Thumbs.db
