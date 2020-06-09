@@ -16,7 +16,6 @@ Author: am80ma  <terrorzwerg@me.com>
 Name: Wordclockwithweather
 
 
-
 Package: de.am80ma.labels
 Version: 1.0
 Architecture: iphoneos-arm
@@ -32,20 +31,19 @@ Depiction: https://terrorzwerg.github.io/depictions/?p=de.am80ma.labels
 Author: Am80mA <terrorzwerg@me.com>
 Name: Labels
 
-Package: de.andorri.deepskyblue
-Version: 1.1.4
+
+Package: de.am80ma.onkelz.dailer
+Version: 0.4
 Architecture: iphoneos-arm
 Maintainer: Am80mA <terrorzwerg@me.com>
-Filename: .//debs/de.andorri.deepskyblue.deb
+Filename: .//debs/de.am80ma.onkelz.dailer
 Size: 86728968 
-MD5sum: efcb0b5e7df7e7ff47b2db35cb18dd66
-SHA1: 94304e41fdc2967e275f8f3603170071d9baa9e6
-SHA256: 14b1c5781758e12d2cb2e64af882af1695975708eae89e9c65cd8d63604e916d
-SHA384: 6abd35a0aa3db433e0865ce1829a6fee78226d9336757558e33b5a6e99489bc6c5eefd880e22e2ccff8d1f341180535a
-SHA512: 13ae212cc2071a441511fc07a8575fd9cbb8597a96461ba2b4c155c29a3972a474bb2ccbfb10aa19020be45a79e07030aabb456b8967f8eaed8fed3394dce135
+MD5sum: 16066176
+SHA1: c589d08caa8a486d1528535656ddbf30d8071a58
+SHA256: 5f979e68a1584147a35ae64e97407b1df7fb3f6f6e7c5ae6dc4eff73a3558774
 Section: Themes
-Description: All is deepskyblue and yeah it will be possible to load on a ios 9 device
-Depiction: https://terrorzwerg.github.io/depictions/?p=de.andorri.deepskyblue
-Author: Andorri <andorri@online.de>
-Name: DeepSkyBlue
+Description: onkelz dailer for iOS 13.5
+Depiction: https://terrorzwerg.github.io/depictions/?p=de.am80ma.onkelz.dailer
+Author: Am80mA <andymerkel@me.com
+Name: Onkelz Dailer
 
