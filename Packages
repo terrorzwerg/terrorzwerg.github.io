@@ -32,19 +32,20 @@ Depiction: https://terrorzwerg.github.io/depictions/?p=de.am80ma.labels
 Author: Am80mA <terrorzwerg@me.com>
 Name: Labels
 
-Package: de.am80ma.onkelz.dailer
-Version: 0.4
+Package: de.andorri.deepskyblue
+Version: 1.1.4
 Architecture: iphoneos-arm
 Maintainer: Am80mA <terrorzwerg@me.com>
-Filename: .//debs/de.am80ma.onkelz.dailer.deb
-Size: 16066192 
-MD5sum: 5e03cb20b9f2b25f65780ced88e59ec2
-SHA1: 8536bafec3be286b1821c0ed17308f762ad5ace8
-SHA256: f0fa8f7da1000a4045d380ffd24e4d3b4e8cb7acef7bb10867f84415b7d07216
+Filename: .//debs/de.andorri.deepskyblue.deb
+Size: 86728968 
+MD5sum: efcb0b5e7df7e7ff47b2db35cb18dd66
+SHA1: 94304e41fdc2967e275f8f3603170071d9baa9e6
+SHA256: 14b1c5781758e12d2cb2e64af882af1695975708eae89e9c65cd8d63604e916d
+SHA384: 6abd35a0aa3db433e0865ce1829a6fee78226d9336757558e33b5a6e99489bc6c5eefd880e22e2ccff8d1f341180535a
+SHA512: 13ae212cc2071a441511fc07a8575fd9cbb8597a96461ba2b4c155c29a3972a474bb2ccbfb10aa19020be45a79e07030aabb456b8967f8eaed8fed3394dce135
 Section: Themes
-Description: Onkelz Dailer to use with iThemer beta build from discord
-Depiction: https://terrorzwerg.github.io/depictions/?p=de.am80ma.onkelz.dailer
-Author: Am80mA <andymerkel@me.com>
-Name: Onkelz Dailer
-
+Description: All is deepskyblue and yeah it will be possible to load on a ios 9 device
+Depiction: https://terrorzwerg.github.io/depictions/?p=de.andorri.deepskyblue
+Author: Andorri <andorri@online.de>
+Name: DeepSkyBlue
 
