@@ -95,16 +95,16 @@ body {
 }
 #bundleId{
   float:right;
-  display:inline-block;
+  display:block;
   font-size:10px;
 }
 #version{
   float:left;
-  display:inline-block;
+  display:block;
   font-size:10px;
 }
 #MINIOS,#MAXIOS{
-  display:inline-block;
+  display:block;
 }
 #description {
   text-align: left;
