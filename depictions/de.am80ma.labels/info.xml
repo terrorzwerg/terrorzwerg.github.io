@@ -2,15 +2,14 @@
     <bundleId>de.am80ma.labels</bundleId>
     <name>Labels</name>
     <version>1.0</version>
-     
+    <backgrounds>
+	    <image>bg1.png</image>
+    </backgrounds> 
     <descriptions>
         <description>
             Label your screen 
         </description>
     </descriptions>
-    <backgrounds>
-        <image>bg1.png</image>
-    </backgrounds>
     <compatibility>
         <miniOS>9.0</miniOS>
         <maxiOS>11.3.1</maxiOS>
@@ -26,4 +25,3 @@
         </change>
     </changelog>
 </packageInfo>
-
