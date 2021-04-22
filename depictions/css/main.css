@@ -88,7 +88,7 @@ body {
 	text-align: center;
 }
 .box h1{
-  display:inline-block;
+  display:block;
 }
 #packageTitle{
   margin-bottom:10px;
@@ -124,5 +124,5 @@ body {
 }
 
 #image {
-   display:inline-block;	
+   display:block;	
 }
