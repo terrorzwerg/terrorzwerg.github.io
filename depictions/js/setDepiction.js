@@ -33,15 +33,15 @@ $(function(){
                        $("#description" ).append('<li>' +$(this).text()+ '</li>');
                    });
 
-                   $(xml).find('dependency').each(function(){
-                       $("#dependencies" ).append('<li>' +$(this).text()+ '</li>');
+                   $(xml).find('dependencies').each(function(){
+                       $("#dependency" ).append('<li>' +$(this).text()+ '</li>');
                    });
 				   $(xml).find('backgrounds').each(function(){
 						$("#image" ).append('<img class ="fullwidth" src="' + imgUrl2 + $(this).text() + '" alt="">');
                    });
 				
                    $(xml).find('linkName').each(function(){
-                       $("#dependencies" ).append('<li>' +$(this).text()+ '</li>');
+                       $("#dependency" ).append('<li>' +$(this).text()+ '</li>');
                    });
 
                    $(xml).find('change').each(function(){
